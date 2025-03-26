@@ -29,8 +29,8 @@ ipykernel
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/-transcript.git
-cd -transcript
+git clone https://github.com/joaooliveira10/Transcripts.git
+cd Transcripts
 ```
 
 2. Crie e ative um ambiente virtual:
